@@ -1,0 +1,139 @@
+
+huoqiangshou.png
+size: 311,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_foot
+  rotate: true
+  xy: 0, 1
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+L_forcearm
+  rotate: true
+  xy: 269, 14
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 132, 3
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: false
+  xy: 28, 1
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 14, 1
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 119, 3
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 94, 3
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 198, 1
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 166, 0
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 260, 1
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 27, 20
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 268, 39
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+part_1
+  rotate: false
+  xy: 61, 1
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+part_2
+  rotate: true
+  xy: 290, 14
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+part_3
+  rotate: true
+  xy: 77, 20
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+part_4
+  rotate: false
+  xy: 229, 1
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 0, 16
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: true
+  xy: 127, 24
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 165, 30
+  size: 101, 46
+  orig: 101, 46
+  offset: 0, 0
+  index: -1

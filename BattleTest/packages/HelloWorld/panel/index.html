@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Test</title>
+    <meta charset="utf-8">
+    <style>
+      body {
+        margin: 10px;
+      }
+
+      h1 {
+        color: #f90
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>test</h1>
+    <button id="btn">Click</button>
+
+    <script>
+      let btn = document.getElementById('btn');
+      btn.addEventListener('click', () => {
+        Editor.log('on button clicked!');
+      });
+    </script>
+  </body>
+</html>

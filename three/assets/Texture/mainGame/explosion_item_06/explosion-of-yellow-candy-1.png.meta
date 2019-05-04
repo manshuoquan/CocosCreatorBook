@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "d073299a-4c9c-4c99-8c3a-14b54fcec6dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "explosion-of-yellow-candy-1": {
+      "ver": "1.0.4",
+      "uuid": "3bebf746-a627-4090-a70f-733cd0474444",
+      "rawTextureUuid": "d073299a-4c9c-4c99-8c3a-14b54fcec6dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 1.5,
+      "trimX": 5,
+      "trimY": 4,
+      "width": 155,
+      "height": 152,
+      "rawWidth": 163,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

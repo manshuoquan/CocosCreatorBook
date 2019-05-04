@@ -1,0 +1,153 @@
+
+tuyuansu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 2, 2
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+L_calf
+  rotate: false
+  xy: 96, 49
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 358, 49
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+L_forcearm
+  rotate: false
+  xy: 268, 78
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 134, 47
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 478, 82
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: true
+  xy: 124, 3
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 192, 44
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+R_calf
+  rotate: true
+  xy: 245, 45
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 246, 9
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+R_forcearm
+  rotate: true
+  xy: 374, 85
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 321, 47
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 170, 2
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+R_shoulder
+  rotate: true
+  xy: 203, 8
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 49
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 198, 76
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 72, 2
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+part_1
+  rotate: true
+  xy: 275, 34
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+part_2
+  rotate: true
+  xy: 426, 85
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+part_3
+  rotate: false
+  xy: 321, 78
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 96, 80
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1

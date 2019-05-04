@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "56111865-d214-4e9c-83ba-66be45288c92",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "dizhnu5": {
+      "ver": "1.0.4",
+      "uuid": "d2595ab8-ff4d-4ad8-b87b-51ad06aa65e1",
+      "rawTextureUuid": "56111865-d214-4e9c-83ba-66be45288c92",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 85,
+      "height": 85,
+      "rawWidth": 85,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

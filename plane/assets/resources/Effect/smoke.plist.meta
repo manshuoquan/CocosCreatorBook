@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.1",
+  "uuid": "32243791-1b21-43b0-aac9-ee89ca3cfc43",
+  "subMetas": {
+    "smoke": {
+      "ver": "2.2.0",
+      "uuid": "6ffd042f-8ed1-4270-b0e3-bda549cc6395",
+      "type": "raw",
+      "wrapMode": "clamp",
+      "filterMode": "bilinear",
+      "premultiplyAlpha": false,
+      "subMetas": {}
+    }
+  }
+}

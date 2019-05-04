@@ -1,0 +1,22 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/HelloWorld/open": {
+      "message": "HelloWorld:open"
+    },
+    "i18n:MAIN_MENU.package.title/HelloWorld/hello": {
+      "message": "HelloWorld:say-hello"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "HelloWorld",
+    "width": 400,
+    "height": 300
+  }
+}

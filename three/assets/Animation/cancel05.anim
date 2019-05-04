@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cancel05",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d0e02226-7719-4ee2-aed3-305d13e21227"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "ef98c9a0-c466-4ab2-9c47-1555d4589deb"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "e48b0134-5fe9-41cf-a5d4-765b03a4f8ac"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "7edf163c-8c02-46e9-97dc-fd1f8d2aa3d1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

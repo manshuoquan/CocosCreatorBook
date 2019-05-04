@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaobing_dun
+  rotate: true
+  xy: 102, 37
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+xiaobing_dun_c
+  rotate: true
+  xy: 51, 21
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+xiaobing_head_c
+  rotate: false
+  xy: 2, 2
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+xiaobing_jian
+  rotate: false
+  xy: 51, 33
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+xiaobing_jian_c
+  rotate: false
+  xy: 37, 2
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+xiaobing_shenti
+  rotate: true
+  xy: 148, 32
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+xiaobing_tou
+  rotate: false
+  xy: 2, 18
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+xiaobing_toufa
+  rotate: false
+  xy: 180, 34
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+xiaobing_youjian
+  rotate: false
+  xy: 74, 4
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+xiaobing_youjiao
+  rotate: true
+  xy: 202, 26
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+xiaobing_youshou
+  rotate: false
+  xy: 55, 6
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+xiaobing_zuojian
+  rotate: false
+  xy: 202, 41
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+xiaobing_zuojiao
+  rotate: true
+  xy: 102, 21
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+xiaobing_zuoshou
+  rotate: true
+  xy: 225, 43
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1

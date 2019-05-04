@@ -1,0 +1,66 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false,
+      null,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 1136,
+  "design-resolution-width": 640,
+  "excluded-modules": [],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": false,
+  "fit-width": true,
+  "group-list": [
+    "Default",
+    "HeroPlane",
+    "HeroBullet",
+    "EnemyPlane",
+    "EnemyBullet"
+  ],
+  "last-module-event-record-time": 0,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "0d8fb733-1510-4bd3-be3b-d40914a53f19",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "3440e69d-4c80-4b14-9e9d-f024ac595218",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "jixu_game_n": {
+      "ver": "1.0.4",
+      "uuid": "16fe88c5-a6be-43ff-9c6b-98c4734cb5e2",
+      "rawTextureUuid": "3440e69d-4c80-4b14-9e9d-f024ac595218",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 209,
+      "height": 84,
+      "rawWidth": 210,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

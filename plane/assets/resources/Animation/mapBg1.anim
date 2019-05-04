@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mapBg1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -480
+        },
+        {
+          "frame": 1.6,
+          "value": -864.7436000005691
+        },
+        {
+          "frame": 2,
+          "value": -960
+        }
+      ]
+    }
+  },
+  "events": []
+}

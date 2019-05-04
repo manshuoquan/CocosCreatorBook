@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "1b155ef1-9c46-4fca-a292-a4331dcc2803",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "explosion-of-orange-candy-4": {
+      "ver": "1.0.4",
+      "uuid": "728ac517-1c75-4f6f-b1b6-7ef7a09d3732",
+      "rawTextureUuid": "1b155ef1-9c46-4fca-a292-a4331dcc2803",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -0.5,
+      "trimX": 15,
+      "trimY": 19,
+      "width": 123,
+      "height": 126,
+      "rawWidth": 163,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

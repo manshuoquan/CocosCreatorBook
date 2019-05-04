@@ -1,0 +1,20 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.1",
+  "description": "测试扩展包",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "Panel/HelloWorld": {
+      "message": "HelloWorld:open"
+    }
+  },
+  //测试面板
+  "panel":{
+    "main": "panel/index.js", //扩展包在渲染进程的入口
+    "type": "dockable",       //类型
+    "title": "Panel Example", //标题
+    "width": 300,             //窗口宽
+    "height": 300             //窗口高
+  }
+}

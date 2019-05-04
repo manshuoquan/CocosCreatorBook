@@ -1,0 +1,22 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "测试扩展包",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/HelloWorld/open": {
+      "message": "HelloWorld:open"
+    },
+    "i18n:MAIN_MENU.package.title/HelloWorld/hello": {
+      "message": "HelloWorld:say-hello"
+    }
+  },
+  "panel": {
+    "main": "panel/index.html",
+    "type": "simple",
+    "title": "Panel Example",
+    "width": 300,
+    "height": 300
+  }
+}

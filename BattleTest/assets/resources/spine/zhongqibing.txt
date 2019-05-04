@@ -1,0 +1,160 @@
+
+zhongqibing.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 240, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 383, 14
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+L_leg_horse
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+L_leg_horse_2
+  rotate: false
+  xy: 72, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: false
+  xy: 352, 9
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 324, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+R_leg_horse
+  rotate: true
+  xy: 324, 29
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+R_leg_horse_2
+  rotate: false
+  xy: 159, 5
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 240, 23
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+body_horse
+  rotate: false
+  xy: 136, 21
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 472, 33
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 72, 15
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+head_horse
+  rotate: true
+  xy: 430, 31
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: false
+  xy: 136, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+part_1
+  rotate: true
+  xy: 340, 29
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+part_2
+  rotate: false
+  xy: 261, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+part_3
+  rotate: true
+  xy: 282, 8
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+part_4
+  rotate: false
+  xy: 188, 21
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+part_5
+  rotate: false
+  xy: 472, 2
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 282, 41
+  size: 56, 21
+  orig: 56, 21
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 385, 29
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 14
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1

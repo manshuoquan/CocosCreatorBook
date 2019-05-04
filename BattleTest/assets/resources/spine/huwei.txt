@@ -1,0 +1,188 @@
+
+huwei.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 130, 2
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+L_calf
+  rotate: false
+  xy: 246, 9
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 405, 28
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+L_forcearm
+  rotate: false
+  xy: 181, 5
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 228, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 477, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: false
+  xy: 64, 7
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 492, 2
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+R_calf
+  rotate: true
+  xy: 389, 26
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 280, 24
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+R_forcearm
+  rotate: false
+  xy: 262, 11
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 372, 27
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+R_shoulder
+  rotate: false
+  xy: 477, 22
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 430, 20
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+dun
+  rotate: true
+  xy: 250, 36
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 250, 26
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 130, 27
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 2, 7
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: false
+  xy: 477, 40
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+part_1
+  rotate: false
+  xy: 190, 27
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+part_2
+  rotate: false
+  xy: 97, 7
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+part_3
+  rotate: true
+  xy: 311, 36
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+part_4
+  rotate: false
+  xy: 204, 9
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+part_5
+  rotate: false
+  xy: 148, 3
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 372, 41
+  size: 56, 21
+  orig: 56, 21
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 64, 28
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1

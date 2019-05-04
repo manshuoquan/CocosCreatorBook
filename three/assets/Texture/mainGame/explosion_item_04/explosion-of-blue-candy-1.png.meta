@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "51e58ae0-9572-4d0b-91eb-78f988c5af05",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "explosion-of-blue-candy-1": {
+      "ver": "1.0.4",
+      "uuid": "1df73191-9c65-4bb1-ba36-fcf391b20fd6",
+      "rawTextureUuid": "51e58ae0-9572-4d0b-91eb-78f988c5af05",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": -4,
+      "trimX": 11,
+      "trimY": 10,
+      "width": 148,
+      "height": 151,
+      "rawWidth": 163,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

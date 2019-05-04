@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "menu_logo",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e96c3c7a-4b31-4212-9332-d0fddb8885d9"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "63f418fe-924e-4fc8-8dbd-131f503e4df5"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "e0dcf297-accd-49b0-afdd-ca51d1331d3b"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "524a08f8-da63-4dac-8cd3-49eaf313c0db"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "19dfb9fc-c96e-412c-8cdd-19d0e41262a4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

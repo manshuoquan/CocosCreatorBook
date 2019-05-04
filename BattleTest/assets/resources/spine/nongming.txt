@@ -1,0 +1,153 @@
+
+nongming.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 307, 36
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 73, 0
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 56, 0
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: false
+  xy: 371, 41
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 192, 0
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+R_shoulder
+  rotate: false
+  xy: 441, 44
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 56, 12
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+dun
+  rotate: true
+  xy: 147, 30
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 101, 15
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+fuzi
+  rotate: false
+  xy: 101, 25
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 192, 10
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 4
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: false
+  xy: 193, 29
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 487, 45
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+part_1
+  rotate: false
+  xy: 406, 41
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+part_2
+  rotate: false
+  xy: 464, 44
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+part_3
+  rotate: true
+  xy: 339, 36
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+part_4
+  rotate: true
+  xy: 235, 32
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: true
+  xy: 271, 33
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 210, 15
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 147, 0
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1

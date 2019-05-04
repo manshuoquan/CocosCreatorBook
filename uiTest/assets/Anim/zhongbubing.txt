@@ -1,0 +1,160 @@
+
+zhongbubing.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 467, 110
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+L_forcearm
+  rotate: true
+  xy: 32, 4
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: false
+  xy: 390, 103
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 251, 71
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+R_shoulder
+  rotate: false
+  xy: 449, 108
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+blet
+  rotate: false
+  xy: 2, 2
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 72, 15
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 120, 24
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 320, 101
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 320, 93
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 144, 52
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 53, 6
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 51
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+part_1
+  rotate: true
+  xy: 2, 19
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+part_2
+  rotate: false
+  xy: 73, 51
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+part_3
+  rotate: true
+  xy: 180, 53
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+part_4
+  rotate: true
+  xy: 422, 105
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+part_5
+  rotate: false
+  xy: 355, 101
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 203, 71
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 203, 96
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+texiao_1
+  rotate: false
+  xy: 144, 68
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 273, 91
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1

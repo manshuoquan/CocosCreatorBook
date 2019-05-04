@@ -1,0 +1,195 @@
+
+longyingqishi.png
+size: 139,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 119, 169
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+L_calf
+  rotate: false
+  xy: 123, 151
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 117, 90
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+L_forcearm
+  rotate: false
+  xy: 117, 120
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 117, 105
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 96, 89
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: true
+  xy: 96, 131
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 106, 72
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+R_forcearm
+  rotate: false
+  xy: 114, 135
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 122, 77
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+R_shoulder
+  rotate: true
+  xy: 95, 44
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+bird_body
+  rotate: true
+  xy: 53, 98
+  size: 91, 41
+  orig: 91, 41
+  offset: 0, 0
+  index: -1
+bird_eye
+  rotate: true
+  xy: 131, 309
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+bird_head
+  rotate: false
+  xy: 53, 0
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+bird_mouth_1
+  rotate: false
+  xy: 96, 161
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+bird_mouth_2
+  rotate: true
+  xy: 96, 106
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 88, 0
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+chibang_1
+  rotate: false
+  xy: 0, 423
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+chibang_2
+  rotate: false
+  xy: 0, 328
+  size: 89, 93
+  orig: 89, 93
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 95, 63
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 53, 39
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 54, 256
+  size: 75, 63
+  orig: 75, 63
+  offset: 0, 0
+  index: -1
+part_1
+  rotate: false
+  xy: 54, 191
+  size: 75, 63
+  orig: 75, 63
+  offset: 0, 0
+  index: -1
+part_2
+  rotate: true
+  xy: 0, 110
+  size: 104, 51
+  orig: 104, 51
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 91, 321
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1
+tail_2
+  rotate: true
+  xy: 0, 216
+  size: 110, 52
+  orig: 110, 52
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 0, 4
+  size: 104, 51
+  orig: 104, 51
+  offset: 0, 0
+  index: -1
